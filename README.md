@@ -1,5 +1,5 @@
 # HitomiParser
-**TODO: Search Condition String to Boolean, Customizable Output Format 
+**TODO: Search Condition String to Boolean, Customizable Output Format**
 
 Hitomi Gallery List Extraction Tool with JSON
 
