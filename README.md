@@ -8,7 +8,8 @@ This Program is written C#, .NET Core v2.0. So It supports any environment that 
 Download it, and change directory and then just type
 
 ```
-dotnet run
+git clone https://github.com/0x00000FF/HitomiParser.git
+dotnet run HitomiParser/HitomiParser
 ```
 
 So Easy.
